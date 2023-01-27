@@ -1,7 +1,7 @@
 # SnipeShootingMechanics--Unity3D-Games
 <br />
 Video tutorial part 1 :https://youtu.be/JC7LFXCq1LY<br />
-Video tutorial part 2 :<br />
+Video tutorial part 2 :https://youtu.be/-FzAyMqehY4<br />
 Group :https://t.me/Unity_Free_Source<br /><br />
 🎨Game Artist : https://t.me/maria_artgallery👱🏻‍♀️<br />
 🎨Game Artist : https://twitter.com/Mariaartist__👱🏻‍♀️<br />
